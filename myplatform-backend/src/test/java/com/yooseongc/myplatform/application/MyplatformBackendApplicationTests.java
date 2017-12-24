@@ -1,4 +1,4 @@
-package com.yooseongc.myplatform.myplatformbackend;
+package com.yooseongc.myplatform.application;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
