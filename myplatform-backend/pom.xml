@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.yooseongc.myplatform</groupId>
-    <artifactId>myplatform-wrapper</artifactId>
+    <artifactId>myplatform</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>myplatform-backend</artifactId>
